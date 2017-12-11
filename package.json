@@ -1,0 +1,19 @@
+{
+  "name": "hackernews",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "jest-cli": "^21.2.1",
+    "lodash": "^4.17.4",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
